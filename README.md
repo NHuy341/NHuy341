@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nhathuynguyen341@gmail.com**
 
-- ⚡ Fun fact **I think I am handsome person and My girlfriend is pretty good**
+- ⚡ Fun fact **I think I am handsome person and My little girlfriend is pretty good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
