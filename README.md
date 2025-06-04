@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NHuy</h1>
-<h3 align="center">student working hard to become a frontend developer</h3>
+<h3 align="center">student working hard to become a mobile developer</h3>
 
 - 🔭 I’m currently stuying on [Ton Duc Thang university](https://tdtu.edu.vn/)
 
