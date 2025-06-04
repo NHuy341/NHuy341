@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nhathuynguyen341@gmail.com**
 
-- ⚡ Fun fact **I think I am handsome person and My little girlfriend is pretty good**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nguyễn-nhật-huy-76a128313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn-nhật-huy-76a128313" height="30" width="40" /></a>
