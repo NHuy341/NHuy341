@@ -1,43 +1,166 @@
-<h1 align="center">Hi 👋, I'm NHuy</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Nhat Huy</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-- 🔭 I’m currently stuying on [Ton Duc Thang university](https://tdtu.edu.vn/)
+- 🎓 Software Engineering student at <a href="https://tdtu.edu.vn/">Ton Duc Thang University</a>
 
-- 🌱 I’m currently learning **Lavarel, React and NodeJS**
+- 💼 Former Software Engineer Intern (Backend-focused Full-stack Engineer) at ITC Group Vietnam
 
-- 👨‍💻 All of my projects are available at [https://github.com/NHuy341?tab=stars](https://github.com/NHuy341?tab=stars)
+- 🌱 Currently focusing on **ASP.NET Core, NestJS, Next.js and System Design**
 
-- 💬 Ask me about **Flutter and Dart, C#**
+- 🚀 Interested in building scalable backend systems and modern full-stack applications
 
-- 📫 How to reach me **nhathuynguyen341@gmail.com**
+- 👨‍💻 All of my projects are available at  
+<a href="https://github.com/NHuy341">github.com/NHuy341</a>
 
-<h3 align="left">Connect with me:</h3>
+- 💬 Ask me about **.NET, ASP.NET Core, NestJS, React, Next.js, Flutter**
+
+- 📫 How to reach me: **nhathuynguyen341@gmail.com**
+
+- ⚡ Fun fact: I enjoy optimizing APIs, debugging complex issues and learning through real-world projects
+
+<h3 align="left">🌐 Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/nguyễn-nhật-huy-76a128313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn-nhật-huy-76a128313" height="30" width="40" /></a>
-<a href="https://fb.com/nhuy341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhuy341" height="30" width="40" /></a>
-<a href="https://instagram.com/huynguyen_341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huynguyen_341" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nguyễn-nhật-huy-76a128313" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://fb.com/nhuy341" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/huynguyen_341" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="left">🛠️ Tech Stack:</h3>
+
+<h4>Backend</h4>
+<p align="left">
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="aspnetcore" width="40" height="40"/>
+</a>
+
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nestjs" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+</p>
+
+<h4>Frontend</h4>
+<p align="left">
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+
+<a href="https://angular.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+</p>
+
+<h4>Mobile</h4>
+<p align="left">
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a>
+
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/>
+</a>
+</p>
+
+<h4>Database</h4>
+<p align="left">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+</p>
+
+<h4>Tools & Others</h4>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+<h3 align="left">📌 Featured Projects:</h3>
+
+### 🎓 Personalized Course Recommendation System
+> Full-stack E-Learning platform with personalized course recommendation system using TF-IDF and Cosine Similarity.
+
+**Tech Stack:** Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS
+
+### 🛒 Ecommerce Shopping App
+> Cross-platform mobile e-commerce application with real-time order tracking and Firebase integration.
+
+**Tech Stack:** Flutter, Dart, Firebase
+
+---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHuy341&layout=compact&langs_count=6&hide_border=true&theme=default" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NHuy341&theme=default" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=NHuy341&hide_border=true&theme=default" />
-    </td>
-  </tr>
-</table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=NHuy341&show_icons=true&hide_border=true" />
+</td>
+</tr>
 
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHuy341&layout=compact&langs_count=8&hide_border=true" />
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NHuy341&theme=default" />
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NHuy341&hide_border=true" />
+</td>
+</tr>
+</table>
